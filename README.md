@@ -1,18 +1,46 @@
-# Om Enterprise - Dona, Patel & Glass Shop
+# 🏪 Om Enterprise - Dona, Patel & Glass Shop
 
-यह एक वेबसाइट है जो ओम एंटरप्राइज (किरतपुर) की जानकारी देती है।  
-यहाँ पर Dona, Patel और Glass उत्पादों की जानकारी दी गई है।
+Welcome to **Om Enterprise**, your trusted shop in **Kiratpur** for **dona, patal (leaf plates), and glass products**.  
+We provide eco-friendly and high-quality products for homes, events, and daily use.
 
-## 🔧 Features
-- Home page (Shop details)
-- Product section (Dona, Patel, Glass)
-- Contact page
+---
+
+## 📖 Description
+This is a simple website created for **Om Enterprise**.  
+It showcases the shop details, product list, and contact information so that customers can easily find and connect with us.
+
+---
+
+## 🌟 Features
+- Clean and modern design  
+- Product showcase (Dona, Patal, Glass)  
+- Shop address and contact info  
+- SEO-friendly HTML structure  
+- Easy to edit and update
+
+---
 
 ## 🧠 Purpose
-यह वेबसाइट ग्राहकों को दुकान की जानकारी देने और ऑनलाइन संपर्क के लिए बनाई गई है।
+To create an online presence for **Om Enterprise** and make it easier for customers in and around **Kiratpur** to discover our shop.
 
-## 📷 Screenshot
-(यहाँ अपनी वेबसाइट का एक स्क्रीनशॉट जोड़ो)
+---
 
-## 🧑‍💻 Developer
-**Mohit Deshwal**
+## 🛠️ How to Run the Website
+1. Download or clone this repository.  
+2. Open the folder on your computer.  
+3. Double-click **index.html** — it will open in your browser.  
+
+---
+
+## 📞 Contact Information
+**Shop Name:** Om Enterprise  
+**Owner:** Mohit Deshwal  
+**Location:** Kiratpur  
+**Products:** Dona, Patal, Glass, and more.  
+**Email:** (Add your email here if you want)  
+
+---
+
+## ❤️ Credits
+Website created and maintained by **Mohit Deshwal**  
+Thank you for visiting Om Enterprise!
