@@ -36,7 +36,8 @@ To create an online presence for **Om Enterprise** and make it easier for custom
 **Shop Name:** Om Enterprise  
 **Owner:** Mohit Deshwal  
 **Location:** Kiratpur  
-**Products:** Dona, Patal, Glass, and more.  
+**Products:** Dona, Patal, Glass, and more. 
+**contact:**6399326119
 **Email:** (Add your email here if you want)  
 
 ---
