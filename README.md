@@ -38,7 +38,7 @@ To create an online presence for **Om Enterprise** and make it easier for custom
 **Location:** Kiratpur  
 **Products:** Dona, Patal, Glass, and more. 
 **contact:**6399326119
-**Email:** (Add your email here if you want)  
+**Email:** (mohitsinghdeshwal198@gmail.com)  
 
 ---
 
